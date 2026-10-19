@@ -45,6 +45,4 @@
 
 <img src="https://streak-stats.demolab.com?user=keyloor&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keyloor&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=a78bfa&area=true&area_color=38bdf8" alt="Contribution graph" />
-
 </div>
