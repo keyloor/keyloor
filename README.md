@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Hola%2C+soy+Keylor+Barrantes;Full-stack+Developer;SaaS+%E2%80%A2+E-commerce+%E2%80%A2+Web+Apps)](https://github.com/keyloor)
 
-**Building products end-to-end from Costa Rica 🇨🇷** — multi-tenant SaaS, e-commerce, and tools that help small businesses go digital.
-
 <br/>
 
 [![Email](https://img.shields.io/badge/keylorbarrantesgomez@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:keylorbarrantesgomez@gmail.com)
